@@ -1,1 +1,1 @@
-# currency-converter-in-native-Javascript
+# Простеиший конвертатор валюты из рубли в доллары
